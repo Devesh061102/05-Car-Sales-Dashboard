@@ -104,32 +104,32 @@ The dashboard should provide real-time insights into key performance indicators 
 ## Solution 
 
 1. **YTD Sales Weekly Trend**
-   - **Visual**: Line Chart
 ![Line Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20213408.png?raw=true)
+   - **Visual**: Line Chart
    - **Details**: Display the weekly trend of YTD sales with the X-axis representing weeks and the Y-axis showing total sales amount.
    - **Insights**: Car sales typically exhibit a marked increase after week 30. The beginning of the year tends to perform poorly with notably lower sales figures until mid-year. Notably, weeks 30 to 53 see a peak in sales for most car brands, indicating a seasonal impact on car sales.
 
-2. **YTD Total Sales by Body Style**
-   - **Visual**: Donut  Chart
+3. **YTD Total Sales by Body Style**
 ![Donut Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20213435.png?raw=true)
+   - **Visual**: Donut  Chart
    - **Details**: Visualize the distribution of YTD total sales across different car body styles.
    - **Insights**: SUVs are the most preferred body style, accounting for 26.91% of total sales, while hardtops are the least preferred with only 13.85%. SUVs are favored for their visibility, comfort, space, safety features, and suitability as family cars.
 
-3. **YTD Total Sales by Color**
-   - **Visual**: Donut  Chart
+5. **YTD Total Sales by Color**
 ![Donut Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20214402.png?raw=true)
+   - **Visual**: Donut  Chart
    - **Details**: Present the contribution of various car colors to the YTD total sales.
    - **Insights**: Pale white is the most popular color among car buyers, with 47.02% of cars sold in this color. White cars stay cooler in hot climates, are perceived as clean and modern, and show dirt and scratches less visibly than darker colors.
 
-4. **YTD Cars Sold by Dealer Region**
-   - **Visual**: Bar Chart
+7. **YTD Cars Sold by Dealer Region**
 ![Bar Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20214430.png?raw=true)
+   - **Visual**: Bar Chart
    - **Details**: Showcase the YTD sales data based on different dealer regions to visualize sales distribution.
    - **Insights**: Regions such as Austin and Janesville stand out with sales exceeding $100 million, while regions like Scottsdale, Aurora, Greenville, Pasco, and Middletown have sales figures ranging between $85 million and $100 million.
 
-5. **Company-Wise Sales Trend in Grid Form**
-   - **Visual**: Table
+9. **Company-Wise Sales Trend in Grid Form**
 ![Table](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20214455.png?raw=true)
+   - **Visual**: Table
    - **Details**: Provide a tabular grid displaying the sales trend for each company, showing company names along with their YTD sales figures.
    - **Insights**:
      - Cadillac has the highest YTD average price at $42.2K, reflecting its premium positioning.
@@ -138,9 +138,9 @@ The dashboard should provide real-time insights into key performance indicators 
      - Jaguar, despite a comparable average price of $24.5K, sold only 102 cars YTD, highlighting brand perception's impact on sales.
      - Chevrolet contributes 7.3% of total sales, indicating a significant market share.
 
-6. **Details Grid Showing All Car Sales Information**
-   - **Visual**: Table
+11. **Details Grid Showing All Car Sales Information**
 ![Table](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20214612.png?raw=true)
+   - **Visual**: Table
    - **Details**: Create a detailed grid presenting all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
    - **Insights**:
      - The highest single-day sales peak at approximately $85K, recorded by brands such as Cadillac, Toyota, Audi, and Mercedes-Benz.
