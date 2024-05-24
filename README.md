@@ -104,7 +104,9 @@ The dashboard should provide real-time insights into key performance indicators 
 ## Solution 
 
 1. **YTD Sales Weekly Trend**
+
 ![Line Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20213408.png?raw=true)
+
    - **Visual**: Line Chart
    - **Details**: Display the weekly trend of YTD sales with the X-axis representing weeks and the Y-axis showing total sales amount.
    - **Insights**: Car sales typically exhibit a marked increase after week 30. The beginning of the year tends to perform poorly with notably lower sales figures until mid-year. Notably, weeks 30 to 53 see a peak in sales for most car brands, indicating a seasonal impact on car sales.
