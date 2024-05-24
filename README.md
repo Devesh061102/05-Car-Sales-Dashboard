@@ -110,13 +110,13 @@ The dashboard should provide real-time insights into key performance indicators 
    - **Insights**: Car sales typically exhibit a marked increase after week 30. The beginning of the year tends to perform poorly with notably lower sales figures until mid-year. Notably, weeks 30 to 53 see a peak in sales for most car brands, indicating a seasonal impact on car sales.
 
 2. **YTD Total Sales by Body Style**
-   - **Visual**: Donut Chart
+   - **Visual**: Donut  Chart
 ![Donut Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20213435.png?raw=true)
    - **Details**: Visualize the distribution of YTD total sales across different car body styles.
    - **Insights**: SUVs are the most preferred body style, accounting for 26.91% of total sales, while hardtops are the least preferred with only 13.85%. SUVs are favored for their visibility, comfort, space, safety features, and suitability as family cars.
 
 3. **YTD Total Sales by Color**
-   - **Visual**: Donut Chart
+   - **Visual**: Donut  Chart
 ![Donut Chart](https://github.com/Devesh061102/05_Car_Sales_Dashboard/blob/main/Screenshots/Screenshot%202024-05-23%20214402.png?raw=true)
    - **Details**: Present the contribution of various car colors to the YTD total sales.
    - **Insights**: Pale white is the most popular color among car buyers, with 47.02% of cars sold in this color. White cars stay cooler in hot climates, are perceived as clean and modern, and show dirt and scratches less visibly than darker colors.
