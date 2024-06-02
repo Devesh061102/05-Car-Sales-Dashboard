@@ -14,6 +14,7 @@ The objective of this project is to design and develop a dynamic and interactive
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
 ## Solution 
+Calendar Table is an extra table created which contains the Data,Month,Week,Day Columns and linked to the main Car_data dable throught data column in a one to many link from Calendar Table to Car Table.
 
 ### Sales Overview
 1. **Year-to-Date (YTD) Total Sales**
